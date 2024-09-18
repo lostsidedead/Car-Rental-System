@@ -1,4 +1,4 @@
-# Car Rental System - C++ Project
+# Car Rental System 
 
 This project is a **Car Rental System** implemented in C++. It allows users to view available cars, rent a car for a specific number of days, and return a car when finished. Each car has details such as the brand, model, year, and price per day.
 
